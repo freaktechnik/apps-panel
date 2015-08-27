@@ -1,0 +1,15 @@
+{
+  "title": "Web App Panel",
+  "name": "apps-panel",
+  "version": "0.0.1",
+  "description": "A panel to launch installed web apps from",
+  "main": "index.js",
+  "author": "Martin Giger (http://humanoids.be)",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL-2.0",
+  "dependencies": {
+    "jetpack-panelview": "^0.2.1"
+  }
+}
