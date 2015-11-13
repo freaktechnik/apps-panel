@@ -1,7 +1,7 @@
 {
   "title": "Web App Panel",
   "name": "apps-panel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A panel to launch installed web apps from",
   "main": "index.js",
   "author": "Martin Giger (http://humanoids.be)",
@@ -10,6 +10,13 @@
   },
   "license": "MPL-2.0",
   "dependencies": {
-    "jetpack-panelview": "^0.2.1"
+    "jetpack-panelview": "^0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freaktechnik/app-panel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freaktechnik/apps-panel/issues"
   }
 }
