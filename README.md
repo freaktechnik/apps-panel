@@ -1,4 +1,6 @@
 # DEPRECATED
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/freaktechnik/apps-panel.svg)](https://greenkeeper.io/)
 Due to [the removal of WebRunner](https://bugzilla.mozilla.org/show_bug.cgi?id=1238079),
 the thing that runs web apps as "native" apps, on Firefox desktop and the
 eventual deprecation of packaged apps as a whole, the development of this
